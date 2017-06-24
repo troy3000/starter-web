@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+Troy Davis
     <name> -- <role> -- <twitter>
 
 # THANKS
